@@ -1,0 +1,14 @@
+# Ignore private credentials
+.doom.d/private/
+
+# Emacs compiled files
+*.elc
+
+# Backup files
+*~
+
+# Autosave and cache
+.auto-save-list/
+.tramp
+.cache/
+.local/
