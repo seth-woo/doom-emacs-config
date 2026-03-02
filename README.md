@@ -6,6 +6,7 @@ Personal Doom Emacs setup with two parts in one repo:
 - `.emacs.d/`: a vendored Doom Emacs framework tree (including modules, CLI, and docs)
 
 This layout gives you a self-contained setup where both framework and private config are versioned together.
+[^calendar-note]
 
 ## Repository Layout
 
@@ -171,6 +172,4 @@ Useful diagnostics:
 - Doom docs in repo: `.emacs.d/docs/`
 - Official site: [https://doomemacs.org](https://doomemacs.org)
 
-## Footnote
-
-I am exploring Doom Emacs primarily for Org mode and Org mode Google Calendar integration (`org-gcal`). I am still undecided whether this workflow is efficient for me, or if it would be better to use the official Google Calendar web UI directly. Not everything has to be done through a CLI.
+[^calendar-note]: I am exploring Doom Emacs primarily for Org mode, especially the Google Calendar integration (`org-gcal`). I am still undecided whether this workflow is efficient for me, or if it would be better to use the official Google Calendar web UI directly. Not everything has to be done through a CLI.
