@@ -169,4 +169,8 @@ Useful diagnostics:
 
 - Local upstream README: `.emacs.d/README.md`
 - Doom docs in repo: `.emacs.d/docs/`
-- Official site: <https://doomemacs.org>
+- Official site: [https://doomemacs.org](https://doomemacs.org)
+
+## Footnote
+
+I am exploring Doom Emacs primarily for Org mode and Org mode Google Calendar integration (`org-gcal`). I am still undecided whether this workflow is efficient for me, or if it would be better to use the official Google Calendar web UI directly. Not everything has to be done through a CLI.
